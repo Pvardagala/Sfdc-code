@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Salesforce Automation" parallel="classes"
+	thread-count="2">
+	
+	<test name="LoginApp Test1">
+	<parameter name="browser name" value="edge"></parameter>
+		<classes>
+			<class name="com.sfdcTestcases.LoginTest">
+			<methods>
+			<include  name="loginErrorMessage_TC01()"/>
+			</methods>
+			</class>
+			
+		</classes>
+
+	</test>
+	  
+	<test name="Leads Test">
+	<parameter name="browser name" value="chrome"></parameter> 
+		<classes>
+			<class name="com.sfdcTestcases.LeadsTest">
+			<methods>
+			<include  name="leadsTab_TC20()"/>
+			</methods>
+			</class>
+		</classes>
+
+	</test>
+
+
+
+</suite>

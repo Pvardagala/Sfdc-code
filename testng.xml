@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Salesforce Automation">
+	<parameter name="browser name" value="chrome"></parameter>
+	  <listeners>
+		<listener class-name="com.sfdcUtilities.SfdcReports" />
+	</listeners> 
+
+	<test name="Contacts Test">
+		<classes>
+			<class name="com.sfdcTestcases.UserMenuTest">
+				<methods>
+			        <include name="selectDeveloperConsole_TC08()"/>
+				   <exclude name="createNewViewWithErrorMessage_TC30()" />
+				    <exclude name="ckeckingNewViewWithcancelButton_TC31()" />
+					<exclude name="selectMyContactsView_TC28()" />
+					<exclude name="displayNameContacts_TC29()" />
+					<exclude name="checkingContactEditWithSave_NewButton_TC32()" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>
+
+
+		
+
+
+	
+

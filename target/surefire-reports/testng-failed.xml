@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Salesforce Automation]">
+  <parameter name="browser name" value="chrome"/>
+  <test name="Contacts Test(failed)">
+    <classes>
+      <class name="com.sfdcTestcases.UserMenuTest">
+        <methods>
+          <include name="selectMyProfile_TC06"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="launchApp"/>
+        </methods>
+      </class> <!-- com.sfdcTestcases.UserMenuTest -->
+    </classes>
+  </test> <!-- Contacts Test(failed) -->
+</suite> <!-- Failed suite [Salesforce Automation] -->

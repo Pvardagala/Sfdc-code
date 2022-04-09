@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Salesforce Automation]">
+  <parameter name="browser name" value="chrome"/>
+  <listeners>
+    <listener class-name="com.sfdcUtilities.SfdcReports"/>
+  </listeners>
+  <test name="Contacts Test(failed)">
+    <classes>
+      <class name="com.sfdcTestcases.UserMenuTest">
+        <methods>
+          <include name="selectMySettings_TC07"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="launchApp"/>
+        </methods>
+      </class> <!-- com.sfdcTestcases.UserMenuTest -->
+    </classes>
+  </test> <!-- Contacts Test(failed) -->
+</suite> <!-- Failed suite [Salesforce Automation] -->

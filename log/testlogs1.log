@@ -1,0 +1,115 @@
+2022-04-08 17:01:03,234 [main] INFO UserMenuTest - Log file configured
+2022-04-08 17:01:08,819 [main] INFO UserMenuTest - chrome driver intialized
+2022-04-08 17:01:08,819 [main] INFO UserMenuTest - selected the desired browser
+2022-04-08 17:01:08,844 [main] INFO UserMenuTest - Login page object created
+2022-04-08 17:01:08,883 [main] INFO UserMenuTest - Production URL intialized
+2022-04-08 17:01:20,578 [main] INFO UserMenuTest - driver closed after test
+2022-04-08 17:02:22,646 [main] INFO UserMenuTest - Log file configured
+2022-04-08 17:02:24,648 [main] INFO UserMenuTest - chrome driver intialized
+2022-04-08 17:02:24,651 [main] INFO UserMenuTest - selected the desired browser
+2022-04-08 17:02:24,686 [main] INFO UserMenuTest - Login page object created
+2022-04-08 17:02:24,740 [main] INFO UserMenuTest - Production URL intialized
+2022-04-08 17:02:33,620 [main] INFO UserMenuTest - driver closed after test
+2022-04-08 17:06:25,863 [main] INFO UserMenuTest - Log file configured
+2022-04-08 17:06:27,834 [main] INFO UserMenuTest - chrome driver intialized
+2022-04-08 17:06:27,835 [main] INFO UserMenuTest - selected the desired browser
+2022-04-08 17:06:27,865 [main] INFO UserMenuTest - Login page object created
+2022-04-08 17:06:27,897 [main] INFO UserMenuTest - Production URL intialized
+2022-04-08 17:06:36,770 [main] INFO UserMenuTest - driver closed after test
+2022-04-08 17:12:35,408 [main] INFO UserMenuTest - Log file configured
+2022-04-08 17:12:37,361 [main] INFO UserMenuTest - chrome driver intialized
+2022-04-08 17:12:37,361 [main] INFO UserMenuTest - selected the desired browser
+2022-04-08 17:12:37,392 [main] INFO UserMenuTest - Login page object created
+2022-04-08 17:12:37,431 [main] INFO UserMenuTest - Production URL intialized
+2022-04-08 17:12:48,412 [main] INFO UserMenuTest - driver closed after test
+2022-04-08 17:13:19,935 [main] INFO UserMenuTest - Log file configured
+2022-04-08 17:13:21,905 [main] INFO UserMenuTest - chrome driver intialized
+2022-04-08 17:13:21,905 [main] INFO UserMenuTest - selected the desired browser
+2022-04-08 17:13:21,935 [main] INFO UserMenuTest - Login page object created
+2022-04-08 17:13:21,979 [main] INFO UserMenuTest - Production URL intialized
+2022-04-08 17:13:30,738 [main] INFO UserMenuTest - driver closed after test
+2022-04-08 17:26:43,262 [main] INFO UserMenuTest - Log file configured
+2022-04-08 17:26:45,303 [main] INFO UserMenuTest - chrome driver intialized
+2022-04-08 17:26:45,304 [main] INFO UserMenuTest - selected the desired browser
+2022-04-08 17:26:45,332 [main] INFO UserMenuTest - Login page object created
+2022-04-08 17:26:45,377 [main] INFO UserMenuTest - Production URL intialized
+2022-04-08 17:26:54,216 [main] INFO UserMenuTest - driver closed after test
+2022-04-08 17:29:24,564 [main] INFO UserMenuTest - Log file configured
+2022-04-08 17:29:26,581 [main] INFO UserMenuTest - chrome driver intialized
+2022-04-08 17:29:26,582 [main] INFO UserMenuTest - selected the desired browser
+2022-04-08 17:29:26,617 [main] INFO UserMenuTest - Login page object created
+2022-04-08 17:29:26,687 [main] INFO UserMenuTest - Production URL intialized
+2022-04-08 17:29:36,055 [main] INFO UserMenuTest - driver closed after test
+2022-04-08 17:31:19,038 [main] INFO UserMenuTest - Log file configured
+2022-04-08 17:31:21,033 [main] INFO UserMenuTest - chrome driver intialized
+2022-04-08 17:31:21,033 [main] INFO UserMenuTest - selected the desired browser
+2022-04-08 17:31:21,065 [main] INFO UserMenuTest - Login page object created
+2022-04-08 17:31:21,106 [main] INFO UserMenuTest - Production URL intialized
+2022-04-08 17:33:17,853 [main] INFO UserMenuTest - Log file configured
+2022-04-08 17:33:19,826 [main] INFO UserMenuTest - chrome driver intialized
+2022-04-08 17:33:19,827 [main] INFO UserMenuTest - selected the desired browser
+2022-04-08 17:33:19,875 [main] INFO UserMenuTest - Login page object created
+2022-04-08 17:33:19,915 [main] INFO UserMenuTest - Production URL intialized
+2022-04-08 17:40:25,189 [main] INFO UserMenuTest - Log file configured
+2022-04-08 17:40:27,124 [main] INFO UserMenuTest - chrome driver intialized
+2022-04-08 17:40:27,125 [main] INFO UserMenuTest - selected the desired browser
+2022-04-08 17:40:27,151 [main] INFO UserMenuTest - Login page object created
+2022-04-08 17:40:27,204 [main] INFO UserMenuTest - Production URL intialized
+2022-04-08 17:40:35,585 [main] INFO UserMenuTest - driver closed after test
+2022-04-08 17:53:45,181 [main] INFO UserMenuTest - Log file configured
+2022-04-08 17:53:47,155 [main] INFO UserMenuTest - chrome driver intialized
+2022-04-08 17:53:47,155 [main] INFO UserMenuTest - selected the desired browser
+2022-04-08 17:53:47,192 [main] INFO UserMenuTest - Login page object created
+2022-04-08 17:53:47,235 [main] INFO UserMenuTest - Production URL intialized
+2022-04-08 17:53:56,375 [main] INFO UserMenuTest - driver closed after test
+2022-04-08 17:57:18,064 [main] INFO UserMenuTest - Log file configured
+2022-04-08 17:57:20,080 [main] INFO UserMenuTest - chrome driver intialized
+2022-04-08 17:57:20,080 [main] INFO UserMenuTest - selected the desired browser
+2022-04-08 17:57:20,098 [main] INFO UserMenuTest - Login page object created
+2022-04-08 17:57:20,125 [main] INFO UserMenuTest - Production URL intialized
+2022-04-08 17:57:29,978 [main] INFO UserMenuTest - driver closed after test
+2022-04-08 18:01:18,849 [main] INFO UserMenuTest - Log file configured
+2022-04-08 18:01:21,700 [main] INFO UserMenuTest - chrome driver intialized
+2022-04-08 18:01:21,700 [main] INFO UserMenuTest - selected the desired browser
+2022-04-08 18:01:21,720 [main] INFO UserMenuTest - Login page object created
+2022-04-08 18:01:21,755 [main] INFO UserMenuTest - Production URL intialized
+2022-04-08 18:01:30,027 [main] INFO UserMenuTest - driver closed after test
+2022-04-08 18:08:16,671 [main] INFO UserMenuTest - Log file configured
+2022-04-08 18:08:18,625 [main] INFO UserMenuTest - chrome driver intialized
+2022-04-08 18:08:18,625 [main] INFO UserMenuTest - selected the desired browser
+2022-04-08 18:08:18,645 [main] INFO UserMenuTest - Login page object created
+2022-04-08 18:08:18,680 [main] INFO UserMenuTest - Production URL intialized
+2022-04-08 18:08:29,431 [main] INFO UserMenuTest - driver closed after test
+2022-04-08 18:09:36,564 [main] INFO UserMenuTest - Log file configured
+2022-04-08 18:09:38,524 [main] INFO UserMenuTest - chrome driver intialized
+2022-04-08 18:09:38,524 [main] INFO UserMenuTest - selected the desired browser
+2022-04-08 18:09:38,542 [main] INFO UserMenuTest - Login page object created
+2022-04-08 18:09:38,574 [main] INFO UserMenuTest - Production URL intialized
+2022-04-08 18:09:47,844 [main] INFO UserMenuTest - driver closed after test
+2022-04-08 18:13:47,825 [main] INFO UserMenuTest - Log file configured
+2022-04-08 18:13:49,797 [main] INFO UserMenuTest - chrome driver intialized
+2022-04-08 18:13:49,797 [main] INFO UserMenuTest - selected the desired browser
+2022-04-08 18:13:49,819 [main] INFO UserMenuTest - Login page object created
+2022-04-08 18:13:49,847 [main] INFO UserMenuTest - Production URL intialized
+2022-04-08 18:15:37,029 [main] INFO UserMenuTest - Log file configured
+2022-04-08 18:15:38,971 [main] INFO UserMenuTest - chrome driver intialized
+2022-04-08 18:15:38,972 [main] INFO UserMenuTest - selected the desired browser
+2022-04-08 18:15:38,993 [main] INFO UserMenuTest - Login page object created
+2022-04-08 18:15:39,024 [main] INFO UserMenuTest - Production URL intialized
+2022-04-08 18:18:00,016 [main] INFO UserMenuTest - Log file configured
+2022-04-08 18:18:02,036 [main] INFO UserMenuTest - chrome driver intialized
+2022-04-08 18:18:02,037 [main] INFO UserMenuTest - selected the desired browser
+2022-04-08 18:18:02,059 [main] INFO UserMenuTest - Login page object created
+2022-04-08 18:18:02,091 [main] INFO UserMenuTest - Production URL intialized
+2022-04-08 18:20:12,327 [main] INFO UserMenuTest - Log file configured
+2022-04-08 18:20:14,289 [main] INFO UserMenuTest - chrome driver intialized
+2022-04-08 18:20:14,290 [main] INFO UserMenuTest - selected the desired browser
+2022-04-08 18:20:14,312 [main] INFO UserMenuTest - Login page object created
+2022-04-08 18:20:14,341 [main] INFO UserMenuTest - Production URL intialized
+2022-04-08 18:20:28,050 [main] INFO UserMenuTest - driver closed after test
+2022-04-08 18:30:07,194 [main] INFO UserMenuTest - Log file configured
+2022-04-08 18:30:09,188 [main] INFO UserMenuTest - chrome driver intialized
+2022-04-08 18:30:09,189 [main] INFO UserMenuTest - selected the desired browser
+2022-04-08 18:30:09,211 [main] INFO UserMenuTest - Login page object created
+2022-04-08 18:30:09,243 [main] INFO UserMenuTest - Production URL intialized
+2022-04-08 18:30:22,599 [main] INFO UserMenuTest - driver closed after test
